@@ -1,3 +1,4 @@
-# first-repository
-## git config
- content 
+
+#추가학습
+
+1. Kaggle Digit Recognizer
